@@ -50,6 +50,6 @@ To automatically fix linting errors.
 ### `npm run prettier:check`
 To check for formatting issues.
 
-## `npm run prettier:write`
+### `npm run prettier:write`
 To automatically fix formatting issues.
    
